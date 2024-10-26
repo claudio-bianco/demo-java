@@ -1,0 +1,1 @@
+INSERT INTO products (id,name,description,price,created_at,updated_at) VALUES (1,'Xiaomi','POCO F4',10.97,'2021-12-01 14:30:15','2021-12-01 14:30:15')
